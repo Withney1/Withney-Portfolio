@@ -46,7 +46,7 @@ export default function About() {
             Next.js, and I care about both the code and the design.
           </p>
           <p style={{ color: "#888", fontSize: "16px", lineHeight: 1.8 }}>
-            Currently open to frontend roles and freelance work. Based in Nigeria,
+            Currently open to frontend roles and freelance work. Based in Doha Qatar,
             available globally.
           </p>
         </div>
